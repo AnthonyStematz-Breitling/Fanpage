@@ -1,0 +1,22 @@
+body{
+    background-image: url(./BvbLogo.jpg);
+    background-color:lightslategray;
+    margin: 250px;
+}
+#bvb{
+    color:rgb(141, 7, 7);
+    background-color:lightslategray;
+    font-size:xx-large;
+    padding: 8px;
+    text-align:center;
+}
+.readable{
+    padding:8px;
+    background-color:lightslategray;
+}
+img{
+    border-width: 25px;
+    border-style: groove;
+    border-color: rgba(158, 28, 28, 0.651);
+}
+
