@@ -1,2 +1,3 @@
 # Fanpage
-Fanpage for css practice
+https://anthonystematz-breitling.github.io/Fanpage/
+Basic info page for the band Black Veil Brides.
